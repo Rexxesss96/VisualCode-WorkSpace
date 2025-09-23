@@ -1,0 +1,15 @@
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.AssemblyInfoInputs.cache
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.AssemblyInfo.cs
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.csproj.CoreCompileInputs.cache
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.sourcelink.json
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\bin\Debug\net9.0\Esercizio5.exe
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\bin\Debug\net9.0\Esercizio5.deps.json
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\bin\Debug\net9.0\Esercizio5.runtimeconfig.json
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\bin\Debug\net9.0\Esercizio5.dll
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\bin\Debug\net9.0\Esercizio5.pdb
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.dll
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\refint\Esercizio5.dll
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.pdb
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\Esercizio5.genruntimeconfig.cache
+c:\Users\rrena\Desktop\VisualCode WorkSpace\Programmazione in C#\Esercizi C#\Esercizio5\obj\Debug\net9.0\ref\Esercizio5.dll

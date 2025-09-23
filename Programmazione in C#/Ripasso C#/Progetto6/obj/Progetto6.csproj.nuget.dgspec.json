@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto6\\Progetto6.csproj": {}
+    "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto6\\Progetto6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto6\\Progetto6.csproj": {
+    "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto6\\Progetto6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto6\\Progetto6.csproj",
+        "projectUniqueName": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto6\\Progetto6.csproj",
         "projectName": "Progetto6",
-        "projectPath": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto6\\Progetto6.csproj",
+        "projectPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto6\\Progetto6.csproj",
         "packagesPath": "C:\\Users\\rrena\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto6\\obj\\",
+        "outputPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rrena\\AppData\\Roaming\\NuGet\\NuGet.Config"

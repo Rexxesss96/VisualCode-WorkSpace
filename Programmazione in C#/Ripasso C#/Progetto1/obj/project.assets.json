@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto1\\Progetto1.csproj",
+      "projectUniqueName": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto1\\Progetto1.csproj",
       "projectName": "Progetto1",
-      "projectPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto1\\Progetto1.csproj",
+      "projectPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto1\\Progetto1.csproj",
       "packagesPath": "C:\\Users\\rrena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Progetto1\\obj\\",
+      "outputPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Ripasso C#\\Progetto1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rrena\\AppData\\Roaming\\NuGet\\NuGet.Config"

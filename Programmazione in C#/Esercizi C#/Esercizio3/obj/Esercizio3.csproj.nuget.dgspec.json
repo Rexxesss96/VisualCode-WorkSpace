@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj": {}
+    "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj": {
+    "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj",
+        "projectUniqueName": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj",
         "projectName": "Esercizio3",
-        "projectPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj",
+        "projectPath": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\Esercizio3.csproj",
         "packagesPath": "C:\\Users\\rrena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\obj\\",
+        "outputPath": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rrena\\AppData\\Roaming\\NuGet\\NuGet.Config"
