@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj": {}
+    "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj": {
+    "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj",
+        "projectUniqueName": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj",
         "projectName": "Esercizio7",
-        "projectPath": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj",
+        "projectPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\Esercizio7.csproj",
         "packagesPath": "C:\\Users\\rrena\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\obj\\",
+        "outputPath": "C:\\Users\\rrena\\Desktop\\VisualCode WorkSpace\\Programmazione in C#\\Esercizi C#\\Esercizio7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rrena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rrena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
